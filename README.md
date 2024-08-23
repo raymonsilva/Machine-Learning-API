@@ -4,3 +4,12 @@ Uma API com integração com machine learning basica que cria um modelo armazena
 
 
 An API with basic machine learning integration that creates a model, stores the data, makes a prediction and if more data is added, retrains the model.
+
+
+Techs
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Python
+Panda 
+Flask
+numpy
+scikit-learn
