@@ -8,8 +8,8 @@ An API with basic machine learning integration that creates a model, stores the 
 
 Techs
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Python
-Panda 
-Flask
-numpy
-scikit-learn
+- Python
+- Panda 
+- Flask
+- Numpy
+- scikit-learn
